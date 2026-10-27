@@ -32,7 +32,7 @@ print("[INIT] Model loaded successully.\n")
 # on a single coherent record or concept.
 
 financial_logs = [
-    "Dispute ID: dp_01. Status: Won. Amount: $150. Reason: Fraudlent_charge. Customer provided evidence.",
+    "Dispute ID: dp_101. Status: Won. Amount: $150. Reason: Fraudlent_charge. Customer provided evidence.",
     "Dispute ID: dp_105. Status: Won. Amount: $160. Reason: Fraudulent charge. Customer provided evidence of delivery.",
     "Dispute ID: dp_102. Status: Lost. Amount: $45. Reason: Product not received. Merchant failed to provide tracking.",
     "Dispute ID: dp_103. Status: Pending. Amount: $900. Reason: Unrecognized. Awaiting bank review.",
